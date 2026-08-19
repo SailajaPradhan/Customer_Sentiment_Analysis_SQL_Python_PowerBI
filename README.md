@@ -19,23 +19,23 @@ This project aims to uncover the root causes of these issues and support data-dr
 # 📚 Skills Demonstrated
 
 - Python Data Analysis
-
 - SQL Querying
-
 - Power BI Dashboarding
-
 - Data Cleaning
-
 - Data Visualization
-
 - Exploratory Data Analysis
-
 - Business Skills
-
 - Customer Analytics
-
 - KPI Reporting
-
 - Strategic Recommendations
-
 - Data Storytelling
+------------------------------------------------------------------------------------------------------------------------------------------------
+## Data Visualization 
+![CustomerAnalyticsDashboard](Visuals/Overview.png)
+
+![CustomerAnalyticsDashboard](Visuals/Conversion_Details.png)
+
+![CustomerAnalyticsDashboard](Visuals/CustomerReview_Details.png)
+
+![CustomerAnalyticsDashboard](Visuals/SocialMedia_Details.png)
+
